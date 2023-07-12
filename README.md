@@ -1,4 +1,3 @@
-# investigating-data-visualization-global-terrorism-database
 # Investigating Data Visualization Methods using the Global Terrorism Database
 
 ## Introduction
